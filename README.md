@@ -36,7 +36,7 @@
 | [Запросы к БД MySQL](https://github.com/MikhailRMA/Ls_project/tree/main/Учебные%20проекты/SQL) | Анализ базы данных клиентов банка по средствам запросов  | *MySQL* |
 | [Иследование данных бронирования отеля](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_hotel)| Иследовать базу данных отеля по интересующим менеджмент показателям | *python, pandas, numpy, random, datetime* |
 | [Поведение клиентов](https://github.com/MikhailRMA/WorkSpace/tree/main/Project2) | Иследовать поведения клиентов в зависимости от их признаков | *python, pandas, matplotlib, seaborn* |
-| []()| Описание | |
+| [Грязные данные]()| Собрать все данные из папки data и провести анализ полученного датасета | *python, pandas, matplotlib, seaborn* |
 | Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/views/task1_17410978099090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Создание дашборда с базовыми метриками | *Tableau* |
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MikhailRMA&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
