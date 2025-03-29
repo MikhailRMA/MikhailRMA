@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TABLEAU](https://camo.githubusercontent.com/104718c10f89478d6f1b7093e75b25c384ddd12280dd7ccbc3a606a2d207c411/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461626c6561752d77686974653f6c6f676f3d5461626c6561752673266c6f676f436f6c6f723d79656c6c6f77267374796c653d666f722d7468652d6261646765) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-# 🛠️Языки и инструменты:
+# 🛠️Навыки:
 
 ### SQL
 - написание запросов для извлечения и обработки данных из реляционных баз данных;
