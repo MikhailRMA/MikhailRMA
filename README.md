@@ -31,7 +31,7 @@
 | **Название проекта** | **Описание проекта** | **Стек** |
 | --- | --- | --- |
 | [Изучение продаж магазина](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_8) | Проанализировать входные данные о продажах и сегментации клиентов магазина | *python, pandas, matplotlib, seaborn, ttest* |
-| [Иследование повеления пользователей](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_7) | Провести анализ поступивших данных по данным Яндекс.Метрики поведения пользователей на сайте| *python, pandas, matplotlib, seaborn, numpy* |
+| [Исследование повеления пользователей](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_7) | Провести анализ поступивших данных по данным Яндекс.Метрики поведения пользователей на сайте| *python, pandas, matplotlib, seaborn, numpy* |
 | [Анализ данных рекламной компании](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_5) | Анализ и визуализация показателей рекламной компании | *python, pandas, matplotlib, seaborn* |
 | [Когортный анализ](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_6) | Оценка покупок клиентов, проведение когортного анализа и построение RFM сегментации  | *python, pandas, matplotlib, seaborn, sklearn, pyplot, ListedColormap, calendar, math, attrgetter, datetime* |
 | [Создание и изучение воронки событий](https://github.com/MikhailRMA/Ls_project/tree/main/Учебные%20проекты/Python/Проект%202.%20Групировка%20данных%20с%20построением%20воронки) | Построение сводной таблицы для изучения, как пользовательские предпочтения в покупках менялись во времени и построение воронки событий | *python, pandas, matplotlib, plotly*  |
