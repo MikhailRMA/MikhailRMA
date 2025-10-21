@@ -30,6 +30,7 @@
 За все время мной выполнено около 25 проектов. Здесь собрал наиболее интересные:<br>
 | **Название проекта** | **Описание проекта** | **Стек** |
 | --- | --- | --- |
+| [E-commerce Analytics Dashboard](https://github.com/MikhailRMA/WorkSpace/tree/main/e-com_analysis_sql) | Собрал дашборд в Tableau с ключевыми метриками, динамикой продаж, географией, топом товаров, получены данные KPI(выручка, заказы, средний чек, удержание) при помощи SQL | *PostgreSQL, Tableau* |
 | [Изучение продаж магазина](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_8) | Проанализировать входные данные о продажах и сегментации клиентов магазина | *python, pandas, matplotlib, seaborn, ttest* |
 | [Исследование повеления пользователей](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_7) | Провести анализ поступивших данных по данным Яндекс.Метрики поведения пользователей на сайте| *python, pandas, matplotlib, seaborn, numpy* |
 | [Анализ данных рекламной компании](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_5) | Анализ и визуализация показателей рекламной компании | *python, pandas, matplotlib, seaborn* |
