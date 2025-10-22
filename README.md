@@ -31,7 +31,7 @@
 | **Название проекта** | **Описание проекта** | **Стек** |
 | --- | --- | --- |
 | [E-commerce Analytics Dashboard](https://github.com/MikhailRMA/WorkSpace/tree/main/e-com_analysis_sql) | Собрал дашборд в Tableau с ключевыми метриками, динамикой продаж, географией, топом товаров, получены данные KPI(выручка, заказы, средний чек, удержание) при помощи SQL | *PostgreSQL, Tableau* |
-| [Online store sales Analysis](https://github.com/MikhailRMA/WorkSpace/tree/main/Online_store_sales_Analysis) | Расчет общих метрик бизнеса (выручка, средний чек, количество заказов), анализ эффективность товарных категорий, изучение географического распределение заказов и динамики продаж по месяцам | *python, pandas, matplotlib, numpy* |
+| [Online store sales Analysis](https://github.com/MikhailRMA/WorkSpace/tree/main/Online_store_sales_Analysis) | Расчет общих метрик бизнеса (выручка, средний чек, количество заказов), анализ эффективности товарных категорий, изучение географического распределения заказов и динамики продаж по месяцам | *python, pandas, matplotlib, numpy* |
 | [Изучение продаж магазина](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_8) | Проанализировать входные данные о продажах и сегментации клиентов магазина | *python, pandas, matplotlib, seaborn, ttest* |
 | [Исследование повеления пользователей](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_7) | Провести анализ поступивших данных по данным Яндекс.Метрики поведения пользователей на сайте| *python, pandas, matplotlib, seaborn, numpy* |
 | [Анализ данных рекламной компании](https://github.com/MikhailRMA/WorkSpace/tree/main/Project_5) | Анализ и визуализация показателей рекламной компании | *python, pandas, matplotlib, seaborn* |
